@@ -46,3 +46,7 @@ Run tests:
 ```bash
 uv run pytest
 ```
+## ToDo
+Main problem of this repo is registration and login. You need to use your own account manually. 
+In the future, it would be good to create an automated way to create Meta accounts for login.
+```
